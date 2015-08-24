@@ -16,7 +16,7 @@
                 <configuration>
                     <!-- keep it for backwards compatibility to previous versions-->
                     <codeNameBase>show.breadcrumbs.at.top</codeNameBase>
-                    <licenseFile>LICENSE.txt</licenseFile>
+                    <licenseFile>LICENSE</licenseFile>
                     <author>Benno Markiewicz (benno.markiewicz@googlemail.com)</author>
                     <homePageUrl>https://github.com/markiewb/showbreadcrumbsattop</homePageUrl>
                     <keystore>nbproject/private/keystore</keystore>
