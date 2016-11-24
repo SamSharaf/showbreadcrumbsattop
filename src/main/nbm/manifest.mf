@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
+OpenIDE-Module-Install: de/markiewb/netbeans/plugin/showbreadcrumbsattop/Installer.class
 OpenIDE-Module-Layer: de/markiewb/netbeans/plugin/showbreadcrumbsattop/layer.xml
 OpenIDE-Module-Localizing-Bundle: de/markiewb/netbeans/plugin/showbreadcrumbsattop/Bundle.properties
 OpenIDE-Module-Display-Category: Editing
